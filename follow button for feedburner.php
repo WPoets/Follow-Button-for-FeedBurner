@@ -237,7 +237,7 @@ function wpse33008() {
     <h3><label for="loggedout-follow-field">Follow <?php bloginfo('name' ); ?></label></h3>
   <p>Get every new post delivered to your Inbox</p> 
     <p>Join other followers</p>
-    <form style="padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=<?php echo get_option('kkpo_quote'); ?>', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input type="text" style="width:183px" name="email" value="Enter email address" onfocus='this.value=(this.value=="Enter email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'/></p><input type="hidden" value="<?php echo get_option('kkpo_quote'); ?>" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>        </div>
+    <form style="padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=<?php echo get_option('followfbpo_quote'); ?>', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input type="text" style="width:183px" name="email" value="Enter email address" onfocus='this.value=(this.value=="Enter email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'/></p><input type="hidden" value="<?php echo get_option('followfbpo_quote'); ?>" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>        </div>
 </div>
 <?php
 }
