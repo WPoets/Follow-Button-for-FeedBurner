@@ -3,8 +3,8 @@ Contributors: TheAdityaJain
 Tags: Follow, Follow Button for FeedBurner, Subscribe, Subscribe Button, Follow Button for Wordpress.org users, Aditya, Aditya Jain, Follow button for non Wordpress.com users, FeedBurner, Follow Button for FeedBurner using sites/blog
 Requires at least: 3.0
 Tested up to: 3.3.1
-Plugin Version: 1.0
-Stable Tag: 1.0
+Plugin Version: 1.1
+Stable Tag: 1.1
 
 Adds a floating Follow Button to FeedBurner using WP sites. Use Follow Plugin if your don't use FeedBurner.
 
@@ -51,5 +51,7 @@ For any more Questions Tweet <a href="http://twitter.com/TheAdityaJain">@TheAdit
 
 == Changelog ==
 
+= 1.1 = 
+Removes the One and Only Bug - Now the plugin is perfect to use
 = 1.0 =
 Initial Release

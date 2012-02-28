@@ -3,7 +3,7 @@
 Plugin Name: Follow Button for FeedBurner
 Plugin URI: http://mywp.in
 Description: Adds a floating follow button to FeedBurner using WordPRess sites. The same follow button which appears on WP.COM blogs. Use Follow Plugin if your don't use FeedBurner
-Version: 1.0
+Version: 1.1
 Author: TheAdityaJain
 Author URI: http://adityajain.name
 Licence: GNU GPL Version 3
