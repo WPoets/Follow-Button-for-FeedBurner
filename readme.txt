@@ -41,8 +41,6 @@ right bottom of all wordpress.com users. And I think why Wordpress.org users mus
 = 3. Will it have any other sideeffect on my blog or slow down it? =
 No
 
-For any more Questions Tweet <a href="http://twitter.com/TheAdityaJain">@TheAdityaJain</a> 
-
 == Screenshots ==
 
 1. Activating Email Subscription Service for your FeedBurner Feed.
