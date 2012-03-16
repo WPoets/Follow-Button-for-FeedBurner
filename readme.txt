@@ -14,13 +14,13 @@ This plugin collects inserts a Follow Button on the bottom right corner of your 
 
 Thatmeans you can use your existing FeedBurner Account to send email updates to your subscribers.
 
-<strong>NOTE: This plugin requires FeedBurner Email Subscription Service to be activated</strong>
+NOTE: This plugin requires FeedBurner Email Subscription Service to be activated
 
 If you do not use FeedBurner you can download the "Follow" Plugin instead. Follow Plugin is listed in the Wordpress plugin repository at http://wordpress.org/extended/plugins/follow
 
-Tweet <a href="http://twitter.com/TheAdityaJain">@TheAdityaJain</a> or visit <a href="http://forum.adityajain.name">My Community Discussion Forum at http://forum.adityajain.name</a> if you require some tutorial any further help, queries, problems & hacks.
+Tweet @TheAdityaJain if you require some tutorial any further help, queries, problems & hacks.
 
-Visit <a href="http://www.mywp.in">www.mywp.in</a> for tutorials, tips & tricks and hacks.
+Visit http://www.mywp.in for tutorials, tips & tricks and hacks.
 
 == Installation ==
 
@@ -28,8 +28,6 @@ Visit <a href="http://www.mywp.in">www.mywp.in</a> for tutorials, tips & tricks 
 2. Goto WordPress DashBoard>>>Settings>>>Follow for FeedBurner and enter your FeedBurner Feeds ID and Save.
 
 To activate Email Subscription Service for your feedburner feed, Login to your FeedBurner account >> Click on the Feed of your website >> Click Publicize >> Email Subscription and click activate. See Screenshot for illustration.
-
-Visit <a href="http://www.mywp.in">www.mywp.in</a> for tutorials, tips & tricks and hacks.
 
 == Frequently Asked Questions ==
 
